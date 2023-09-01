@@ -10,6 +10,6 @@
 
 ### Tecnologias utilizadas
 
-## FOntes utilizadas
+## Fontes utilizadas
 
 ## Autores
